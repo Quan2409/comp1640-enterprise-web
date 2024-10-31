@@ -1,0 +1,90 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Đảm bảo header hiển thị trên tất cả các phần tử khác */
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.table {
+  width: 100%;
+  height: auto;
+  margin-top: -250px;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  position: relative;
+}
+
+.CotPhai {
+  border-left: 1px solid black;
+  width: 80%;
+}
+
+.uploadFile {
+  width: 30vw;
+  background: #ed4700;
+  border-radius: 5px;
+  color: #fff;
+  padding: 10px; /* Padding sử dụng một giá trị để dễ dàng canh giữa */
+  text-align: center; /* Canh giữa nội dung của nút */
+  border-width: 0vw;
+  align-self: center;
+}
+
+.btn-action {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  /* top: 20px; */
+}
+
+.submit-btn {
+  position: relative;
+  /* top: 170px; */
+  margin: 0 10px;
+  border: none;
+  padding: 15px;
+  width: 100px;
+  color: #fff;
+  border-radius: 10px;
+  background-color: #ed4700;
+  cursor: pointer;
+}
+
+.back-btn {
+  position: relative;
+  top: 300px;
+  margin: 0 10px;
+  border: none;
+  padding: 15px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #9d9d9d;
+  cursor: pointer;
+}
+
+.error {
+  display: block;
+  margin-right: auto;
+  font-size: 0.9rem;
+  color: red;
+}

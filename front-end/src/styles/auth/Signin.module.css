@@ -1,0 +1,123 @@
+@import "../main.css";
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: rgb(12, 40, 187);
+  font-family: Arial, sans-serif;
+  color: #fff;
+  height: 100vh;
+  width: 100vw;
+  justify-content: space-around;
+}
+
+.logo-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.welcome {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.wrapper {
+  width: 420px;
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  color: #fff;
+  border-radius: 15px;
+}
+
+.wrapper h1 {
+  font-size: 36px;
+  text-align: center;
+  color: rgb(12, 40, 187);
+}
+
+.wrapper .input-box {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin: 30px 0;
+}
+
+.input-box input {
+  width: 100%;
+  height: 100%;
+  background: rgba(238, 239, 247);
+  border: none;
+  outline: none;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  border-color: rgba(189, 189, 189, 0.596);
+  padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder {
+  color: rgb(172, 167, 167);
+  font-size: 16px;
+}
+
+.wrapper button {
+  width: 100%;
+  background: #ed4700;
+  border-radius: 5px;
+  color: #fff;
+  padding: 15px;
+  border-width: 0cm;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.699);
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* responsive */
+@media only screen and (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Xếp các phần tử theo chiều dọc */
+    align-items: center; /* Căn giữa các phần tử */
+  }
+
+  .wrapper {
+    width: 90%; /* Sử dụng độ rộng linh hoạt thay vì cố định */
+    margin: auto; /* Căn giữa container */
+  }
+}
+
+/* CSS dành cho các thiết bị có kích thước màn hình lớn hơn 768px (máy tính bảng và máy tính để bàn) */
+@media only screen and (min-width: 769px) {
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around; /* Chia không gian đều giữa hình ảnh và form */
+  }
+
+  .wrapper {
+    width: 820px;
+  }
+
+  .logo {
+    display: block; /* Hiển thị hình ảnh */
+  }
+
+  .logo-img {
+    width: auto; /* Đảm bảo rằng hình ảnh nền sử dụng chiều rộng tự nhiên */
+    padding-bottom: 0; /* Loại bỏ padding dưới cùng cho hình nền */
+  }
+}
+
+.error {
+  display: block;
+  margin-right: auto;
+  font-size: 0.9rem;
+  color: red;
+}

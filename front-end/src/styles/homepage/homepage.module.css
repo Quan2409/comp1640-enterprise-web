@@ -1,0 +1,58 @@
+@import "../main.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 85vw;
+}
+
+.eventList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.eventItem {
+  width: calc(33.33% - 40px);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  cursor: pointer;
+}
+
+.eventItem h1 {
+  color: red;
+}
+
+.eventItem h2 {
+  color: green;
+  margin-bottom: 15px;
+}
+
+.paginationContainer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* responsive */
+@media (max-width: 768px) {
+  .eventItem {
+    width: calc(50% - 40px);
+  }
+}
+
+@media (max-width: 480px) {
+  .eventItem {
+    width: calc(100% - 40px);
+  }
+}

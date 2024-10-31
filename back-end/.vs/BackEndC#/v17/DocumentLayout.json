@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\contributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\contributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\contributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\contributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\coordinatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\coordinatordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\guestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\coordinatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\coordinatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\guestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\facultyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\accountadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\accountadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\icontributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\icontributionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\pdfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\pdfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\service\\icoordinatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\service\\icoordinatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\models\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|e:\\top up\\comp - 1640\\1640cw-main\\backend\\backendc#\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25FB16-93A2-4473-8EDF-EEA60EF84C94}|BackEndC#\\BackEndC#.csproj|solutionrelative:backendc#\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\StudentService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\StudentService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\StudentService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAwwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T08:29:07.833Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\GuestService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\GuestService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\GuestService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\GuestService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwDsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:08:48.234Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "facultyController.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\facultyController.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Controllers\\facultyController.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\facultyController.cs",
+              "RelativeToolTip": "BackEndC#\\Controllers\\facultyController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:22:16.412Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "accountController.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\accountController.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Controllers\\accountController.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\accountController.cs",
+              "RelativeToolTip": "BackEndC#\\Controllers\\accountController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAA9wHkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:18:20.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contributionDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\contributionDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\contributionDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\contributionDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\contributionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:51:01.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\studentDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\studentDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\studentDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\studentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:17:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContributionService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\ContributionService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\ContributionService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\ContributionService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\ContributionService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:31:34.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "coordinatorDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\coordinatorDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\coordinatorDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\coordinatorDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\coordinatorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:16:52.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "guestDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\guestDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\guestDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\guestDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\guestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:08:34.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoordinatorService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\CoordinatorService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\CoordinatorService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\CoordinatorService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\CoordinatorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:22:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\EventService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\EventService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\EventService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\EventService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T07:45:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacultyService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\FacultyService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\FacultyService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\FacultyService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\FacultyService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:46:26.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\AccountService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\AccountService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\AccountService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:19:03.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "student.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\student.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\student.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\student.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:17:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\CommentService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\CommentService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\CommentService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\CommentService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAWwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:25:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEndC#\\appsettings.json",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\appsettings.json",
+              "RelativeToolTip": "BackEndC#\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T15:05:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Program.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Program.cs",
+              "RelativeToolTip": "BackEndC#\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:54:24.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "contribution.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\contribution.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\contribution.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\contribution.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\contribution.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:29:16.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\EmailSettings.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:06:51.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Event.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\Event.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\Event.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\Event.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:43:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "faculty.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\faculty.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\faculty.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\faculty.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\faculty.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:43:29.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\IAccountService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\IAccountService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\IAccountService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:45:24.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "accountDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\accountDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\accountDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\accountDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\accountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:27:54.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "accountAddDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\accountAddDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\accountAddDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\accountAddDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\accountAddDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:27:52.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEndC#\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEndC#\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T05:00:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "coordinatorController.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\coordinatorController.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Controllers\\coordinatorController.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\coordinatorController.cs",
+              "RelativeToolTip": "BackEndC#\\Controllers\\coordinatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:03:34.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\ICommentService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\ICommentService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\ICommentService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:19:17.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\DocumentService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\DocumentService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\DocumentService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\DocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:18:56.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IContributionService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\IContributionService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\IContributionService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\IContributionService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\IContributionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:04:50.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "coordinator.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\coordinator.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\coordinator.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\coordinator.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\coordinator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:43:34.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\Connect.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\Connect.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\Connect.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\Connect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:13:55.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "pdfDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\pdfDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\pdfDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\pdfDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\pdfDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:53:44.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\IDocumentService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\IDocumentService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\IDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:17:11.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICoordinatorService.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\ICoordinatorService.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Service\\ICoordinatorService.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Service\\ICoordinatorService.cs",
+              "RelativeToolTip": "BackEndC#\\Service\\ICoordinatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:19:21.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "commentDTO.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\commentDTO.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\commentDTO.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\commentDTO.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\commentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:55:31.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "guest.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\guest.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Models\\guest.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Models\\guest.cs",
+              "RelativeToolTip": "BackEndC#\\Models\\guest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:43:26.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "studentController.cs",
+              "DocumentMoniker": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\studentController.cs",
+              "RelativeDocumentMoniker": "BackEndC#\\Controllers\\studentController.cs",
+              "ToolTip": "E:\\Top Up\\COMP - 1640\\1640CW-main\\backend\\BackEndC#\\Controllers\\studentController.cs",
+              "RelativeToolTip": "BackEndC#\\Controllers\\studentController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAtwC8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:33:39.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.box{
+    border: 3px solid #ed7400;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.css-0 {
+    border: 3px solid #ed7400;
+    border-radius: 10px;
+    height: 100%; 
+    display: flex; 
+    align-items: center;
+    padding: 20px;
+}

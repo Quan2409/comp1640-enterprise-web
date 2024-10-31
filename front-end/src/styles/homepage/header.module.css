@@ -1,0 +1,35 @@
+@import "../main.css";
+
+.header {
+  position: sticky;
+  width: 100%;
+  background-color: #14238a;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.header-logo img {
+  width: 100px;
+  height: auto;
+  border-radius: 6px;
+  margin-top: 5px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.login-btn button {
+  padding: 5px 20px;
+  border-radius: 6px;
+  border-width: 0;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.header p {
+  color: #fff;
+}

@@ -1,0 +1,27 @@
+@import "../main.css";
+
+/* footer-style */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  background-color: var(--background-color);
+}
+
+.footer__content {
+  margin: 0 auto;
+}
+
+.footer__content p {
+  padding: 5px;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    position: relative;
+  }
+}
